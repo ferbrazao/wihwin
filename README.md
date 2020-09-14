@@ -15,6 +15,10 @@ Few words about the tool, it is a cross-platform application (html5) that levera
 - Create and experiment with your unique hacking scenarios with Automation Playbooks. Include Automation Playbooks in your Patterns or Kanban Boards to automate every aspect of your projects.
 - Challenge yourself,  learn and build your hacking skills with Skuudo’s Challenges.
 
+So if you like to contribute with the project , you can join to the Beta Tester Team by click in here: 
+
+https://skuudo.com/?utm_source=reddit&utm_medium=readme&utm_campaign=betatesters
+
 
 # **Documentation**
 ***
